@@ -1,5 +1,4 @@
 ﻿using Dziekanat.ViewModel;
-using RestSharp;
 using System.Windows;
 namespace Dziekanat.Views
 {
